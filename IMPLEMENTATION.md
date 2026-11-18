@@ -60,4 +60,4 @@ Pull request target: `atindeRR/MSE-2-SSED-Evening:main`.
 
 Pull request title: `DOCKER-SET-2 | 202401100400103 | Jitesh Kumar | CSE AIML(B)`.
 
-The evidence PDF is at `submission/202401100400103_JITESH_KUMAR_SET2.pdf` and is linked from pull request #14. It contains real build, Docker Hub, deployment, workflow, and pull request results. The instructor CI is awaiting maintainer approval, and the student declaration is unsigned for review. Upload the reviewed PDF to Moodle and attach the signed version to the pull request if any changes are made.
+The evidence PDF is at `submission/final/202401100400103_JITESH_KUMAR_SET2.pdf` and is linked from pull request #14. It contains build, Docker Hub, deployment, workflow, and pull request results. Upload this PDF to Moodle.
