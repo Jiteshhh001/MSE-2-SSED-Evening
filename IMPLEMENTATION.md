@@ -1,6 +1,6 @@
 # Docker implementation and verification
 
-Student: Jitesh Kumar | Roll number: 202401100400103 | CSE AIML(B)
+Student: Jitesh Kumar | Roll number: 202401100400103 | Section B | Branch CSE(AIML)
 
 ## How it works
 
@@ -58,6 +58,6 @@ Repository Actions secrets required: `DOCKERHUB_USERNAME`, `DOCKERHUB_TOKEN`, an
 
 Pull request target: `atindeRR/MSE-2-SSED-Evening:main`.
 
-Pull request title: `DOCKER-SET-2 | 202401100400103 | Jitesh Kumar | CSE AIML(B)`.
+Pull request title: `DOCKER-SET-2 | 202401100400103 | Jitesh Kumar | B`.
 
 The evidence PDF is at `submission/final/202401100400103_JITESH_KUMAR_SET2.pdf` and is linked from pull request #14. It contains build, Docker Hub, deployment, workflow, and pull request results. Upload this PDF to Moodle.
